@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Korfinae.Extensions.NamedPipes", "Korfinae.Extensions.NamedPipes\Korfinae.Extensions.NamedPipes.csproj", "{66EB4A2D-FAC2-4DF3-9F49-3055C7F449F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Korfinae.Extensions.NamedPipes.Tests", "Korfinae.Extensions.NamedPipes.Tests\Korfinae.Extensions.NamedPipes.Tests.csproj", "{FD8F611B-E28F-477E-82D0-4DEA41F0BD02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Korfinae.Extensions.Logging.RemoteConsole", "Korfinae.Extensions.Logging.RemoteConsole\Korfinae.Extensions.Logging.RemoteConsole.csproj", "{44055660-DAF7-4216-B444-235A070B30F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Korfinae.Extensions.Logging.RemoteConsoleWeb", "Korfinae.Extensions.Logging.RemoteConsoleWeb\Korfinae.Extensions.Logging.RemoteConsoleWeb.csproj", "{B39814E6-5998-4468-8243-AE592D7A42F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66EB4A2D-FAC2-4DF3-9F49-3055C7F449F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EB4A2D-FAC2-4DF3-9F49-3055C7F449F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EB4A2D-FAC2-4DF3-9F49-3055C7F449F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EB4A2D-FAC2-4DF3-9F49-3055C7F449F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD8F611B-E28F-477E-82D0-4DEA41F0BD02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8F611B-E28F-477E-82D0-4DEA41F0BD02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8F611B-E28F-477E-82D0-4DEA41F0BD02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8F611B-E28F-477E-82D0-4DEA41F0BD02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44055660-DAF7-4216-B444-235A070B30F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44055660-DAF7-4216-B444-235A070B30F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44055660-DAF7-4216-B444-235A070B30F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44055660-DAF7-4216-B444-235A070B30F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B39814E6-5998-4468-8243-AE592D7A42F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39814E6-5998-4468-8243-AE592D7A42F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39814E6-5998-4468-8243-AE592D7A42F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39814E6-5998-4468-8243-AE592D7A42F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(RiderSharedRunConfigurations) = postSolution
+		File = project.json\Korfinae.Extensions.Logging.RemoteConsoleWeb_ http.run.xml
+	EndGlobalSection
+EndGlobal

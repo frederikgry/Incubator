@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InvoiceMerge": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\files\\kdc\\incubator\\InvoiceMerge\\test"
+    }
+  }
+}

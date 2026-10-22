@@ -1,0 +1,6 @@
+@Korfinae.Extensions.Logging.RemoteConsoleWeb_HostAddress = http://localhost:5116
+
+GET {{Korfinae.Extensions.Logging.RemoteConsoleWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
